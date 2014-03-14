@@ -518,7 +518,7 @@ Nest only when need change the class comportament with interference for other cl
 <a name="css-media-queries"></a>
 ### 3.5 Mobile First and Media Queries
 
-Start the development with generic rules with and add media queries with mobile first.
+Start the development with generic rules and add media queries with mobile first.
 
 ```css
 /* Good */
