@@ -1,7 +1,9 @@
 My Coding Style
 ============
 
-> "Every line of code should appear to be written by a single person, no matter the number of contributors." - Chinese Proverb
+> "Every line of code should appear to be written by a single person, no matter the number of contributors."
+>
+> - Chinese Proverb
 
 The following document describes the rules of writing in development languages that I use: HTML, CSS and Javascript.
 
@@ -13,10 +15,10 @@ This is a living document and changes can occur at any time.
 
 ## Summary
  
-1. [Commits] (#commits) 
-1. [HTML] (#html) 
-1. [CSS] (#css) 
-1. [Javascript] (#js) 
+1. [Commits](#commits) 
+1. [HTML](#html) 
+1. [CSS](#css) 
+1. [Javascript](#js) 
 1. [License](#license)
 1. [References](#references)
  
